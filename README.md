@@ -1,5 +1,5 @@
 # STAT 251 Final Project 
-Group 7
+Group 7: Leah Wang, Sheryl Chin, Elina Ren, Lily Cao
 
 # Objectives 📌
 We want to use an SIR model to answer the following questions about infectious diseases:
