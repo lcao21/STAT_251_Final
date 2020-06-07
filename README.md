@@ -7,6 +7,6 @@ We want to use an SIR model to answer the following questions about infectious d
 2) How does changing other variables in the SIR model affect our results?
 
 # Progress ⏰
-**Part 2**: https://github.com/lcao21/STAT_251_Final/blob/master/Progress/STAT_251_Final.ipynb
+**Part 2**: https://github.com/lcao21/STAT_251_Final/blob/master/Progress/Part_2.ipynb
 
 # Graphs & Models 📈
